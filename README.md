@@ -1,6 +1,6 @@
-## A sentiment Analysis prohject for my MSc 
+## A sentiment Analysis project for my MSc 
 
-This project was a comaprative analysis of some commonly used sentiiment analysis techniques used in sentiment analysis tools.
+This project was a comparative analysis of some commonly used sentiment analysis techniques used in sentiment analysis tools.
 This project analysis of sentiment analysis techniques to evaluate their performance in classifying customer reviews into sentiment polarities. Focusing on
 Machine Learning (Random Forest), Deep Learning(Convolutional Neural Networks), Lexicon-Based using AFINN library and Logistic Regression, Bag of Words using Logistic
 Regression and Rule-Based approach using SentiWordNet and VADER. The study examines their efficacy and stability across different datasets. 
