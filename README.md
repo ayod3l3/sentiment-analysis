@@ -1,12 +1,12 @@
-## A sentiment Analysis project for my MSc 
+## Sentiment Analysis project 
 
 This project was a comparative analysis of some commonly used sentiment analysis techniques used in sentiment analysis tools.
-This project analysis of sentiment analysis techniques to evaluate their performance in classifying customer reviews into sentiment polarities. Focusing on
+This project analyses sentiment analysis techniques to evaluate their performance in classifying customer reviews into sentiment polarities. Focusing on
 Machine Learning (Random Forest), Deep Learning(Convolutional Neural Networks), Lexicon-Based using AFINN library and Logistic Regression, Bag of Words using Logistic
 Regression and Rule-Based approach using SentiWordNet and VADER. The study examines their efficacy and stability across different datasets. 
 
 
-References for dataset 
+References for the dataset 
 Anwar, A. (2023). Restaurant Reviews [.tsv]. Version 1. Available at:
 https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews (Accessed: 20
 February 2024).
